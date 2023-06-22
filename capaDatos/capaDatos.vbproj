@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <RootNamespace>capaDatos</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>capaDatos</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\capaEntidad\capaEntidad.vbproj" />
+  </ItemGroup>
+
+</Project>
